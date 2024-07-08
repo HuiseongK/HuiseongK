@@ -1,5 +1,5 @@
 # Hi there 👋
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&text=자두 먹고 싶다&fontSize=35)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&text=자두먹고싶다&fontSize=35)
 
 ## 🌟 Welcome to My GitHub Profile! 🌟
 
