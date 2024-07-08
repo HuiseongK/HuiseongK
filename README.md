@@ -4,10 +4,10 @@
 ## 🌟 Welcome to My GitHub Profile! 🌟
 
 ### 👨‍💻 About Me:
-- 🌱 I’m currently learning **Full Stack Development**
-- 💬 Ask me about **Python, JavaScript, and Machine Learning**
-- 📫 How to reach me: [Your Email](mailto:your.email@example.com)
-- ⚡ Fun fact: I love playing chess and hiking
+- 🌱 I’m currently learning **Data Analysis and Data Engineering**
+- 💬 Ask me about **Python, Oracle SQL, MySQL, and Machine Learning**
+- 📫 How to reach me: [Your Email](mailto:vtrz80@gmail.com)
+- ⚡ Fun fact: I love playing running and TFT
 
 ### 📊 GitHub Stats:
 <div align="center">
