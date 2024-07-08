@@ -1,5 +1,5 @@
 # Hi there 👋
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=320&text=안녕하세요!%21&fontSize=70&fontAlign=50&fontAlignY=50&desc=Happy+Coding+Day&descSize=20&descAlign=50&descAlignY=60)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=320&text=안녕하세요!%21&fontSize=70&fontAlign=50&fontAlignY=30&desc=Happy+Coding+Day&descSize=20&descAlign=50&descAlignY=60)
 
 **데이터 분석과 데이터 엔지니어링 Stack을 가지고 있는 사람입니다** 
 
