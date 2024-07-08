@@ -1,7 +1,6 @@
-## Hi there 👋
+# Hi there 👋
 
-**HuiseongK/HuiseongK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-Here are some ideas to get you started:
+**데이터 분석과 데이터 엔지니어링 Stack을 가지고 있는 사람입니다** 
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
