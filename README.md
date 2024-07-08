@@ -37,3 +37,7 @@
 ![footer](https://capsule-render.vercel.app/api?section=footer&type=waving&color=auto&height=100)
 
 
+### 🚩 Algorithm Ranking
+[![Algorithm Ranking](https://mazassumnida.wtf/api/v2/generate_badge?boj=vtr5858)](https://solved.ac/profile/vtr5858)
+
+
