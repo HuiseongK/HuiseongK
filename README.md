@@ -6,7 +6,7 @@
 ### 👨‍💻 About Me:
 - 🌱 I’m currently learning **Data Analysis and Data Engineering**
 - 💬 Ask me about **Python, Oracle SQL, MySQL, and Machine Learning**
-- 📫 How to reach me: [Your Email](mailto:vtrz80@gmail.com)
+- 📫 How to reach me: [Let's go my email](mailto:vtrz80@gmail.com)
 - ⚡ Fun fact: I love playing running and TFT
 
 ### 📊 GitHub Stats:
