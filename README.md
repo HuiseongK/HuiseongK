@@ -10,16 +10,6 @@
 - 📫 How to reach me: [Let's go my email](mailto:vtrz80@gmail.com)
 - ⚡ Fun fact: I love playing running and TFT
 
-### 📊 GitHub Stats:
-<div align="center">
-  <img height="200px" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical&count_private=true" />
-  <img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical" />
-</div>
-
-### 🏆 GitHub Trophies:
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=yourusername&theme=onedark" />
-</div>
 
 ### 🧰 Languages and Tools:
 <p align="left">
