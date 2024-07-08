@@ -1,5 +1,5 @@
 # Hi there 👋
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=220&text=안녕하세요)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=220&text=안녕하세요&font_size=20px)
 
 **데이터 분석과 데이터 엔지니어링 Stack을 가지고 있는 사람입니다** 
 
