@@ -1,5 +1,5 @@
 # Hi there 👋
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&text=안녕친구들!&fontSize=35&fontAlign=50&fontAlignY=50)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&text=안녕하세요!&fontSize=35&fontAlign=50&fontAlignY=50)
 
 
 ## 🌟 Welcome to My GitHub Profile! 🌟
